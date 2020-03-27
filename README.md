@@ -1,6 +1,6 @@
 # CSEStaffmeetingMarch2020
 Points Discussed
-1. The minutes of the previous meeting was read and the progress was discussed.
+0. The minutes of the previous meeting was read and the progress was discussed.
 2. Faculty should continue teaching process with digital technologies and upload course materials – notes, ppts, video lectures, assignments, question bank,previous year question papers, self study topics, etc. in MOODLE during the period of 'Study holidays' due to COVID-19.
 3. Retests for genuine absentees may be scheduled after the classes reopen.
 4. Parents -Teachers’ Meeting may be postponed after March 31.
